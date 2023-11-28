@@ -6,7 +6,11 @@ For installation:
 Download and unzip the installer file from the most current released version.
 Navigate to the "setup.exe" file, run it, and follow the instructions.
 
-Explore the program with TestData (available upon request because they're large files).
+You can also watch our tutorial videos:
+https://youtu.be/nZqd2-tcrXE
+https://youtu.be/YfH2uRmEqIs
+
+Explore the program with TestData.
 
 We made a user manual with detailed instructions.
 
